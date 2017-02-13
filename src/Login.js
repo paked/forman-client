@@ -29,14 +29,12 @@ var styles = {
     width: '60%'
   },
   button: {
-    marginTop: '1vh',
-    marginBottom: '1vh',
-    fontSize: '18px',
-    padding: '1vh',
-    border: '1px solid rgb(192, 192, 192)',
+    fontSize: '24px',
+    marginTop: '15px',
+    border: `1px solid ${colors.white}`,
     borderRadius: '3px',
-    backgroundColor: colors.white,
-    color: colors.red,
+    backgroundColor: colors.red,
+    color: colors.white,
     fontWeight: 'bold'
   },
   copy: {
